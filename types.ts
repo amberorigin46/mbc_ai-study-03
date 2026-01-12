@@ -12,6 +12,8 @@ export interface Recipe {
   instructions: string[];
   cookingTime: string;
   difficulty: '쉬움' | '보통' | '어려움';
+  decorationTips: string;
+  imageUrl?: string;
 }
 
 export interface RecipeResponse {
