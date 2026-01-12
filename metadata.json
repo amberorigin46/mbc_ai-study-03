@@ -1,0 +1,5 @@
+{
+  "name": "ChefInBox - Smart Refrigerator Recipe Guide",
+  "description": "A sophisticated culinary assistant that suggests personalized recipes based on ingredients currently in your refrigerator and your preferred meal time.",
+  "requestFramePermissions": []
+}
